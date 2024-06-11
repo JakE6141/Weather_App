@@ -11,6 +11,7 @@ similar to how moible devices operate. Other notes include that I did adjust som
 * #### Particulate Matter 2.5(pm2.5) based on loaction
 * #### The air condition based on the pm2.5(on US scale)
 # Screenshots
-* ##### Pictures below show accuracy of temperature, wind and humidity and how the images change with conditions
+* #### Pictures below show accuracy of temperature, wind and humidity and how the images change with conditions.
+  
 ![demo](demo_photos/demoOne.png)
 ![demo](demo_photos/demoTwo.png)
